@@ -1,1 +1,2 @@
 Day la vi du 2
+Thuc hanh voi Git
